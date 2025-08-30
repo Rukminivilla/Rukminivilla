@@ -2,7 +2,9 @@
 
 ## ✨ Tech with a Touch of Passion 💙  
 
-<h2 align="center"> Hi there, I'm Rukmini 💌 </h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+there%2C+I'm+Rukmini" alt="Hiii there! I'm Rukmini" />
+</h1>
 
 ---
 
